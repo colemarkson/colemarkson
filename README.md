@@ -1,34 +1,16 @@
-# Phase1 SpeedIndex ⚡
+# Hi there, I'm Mark (@colemarkson) 👋
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
-[![PHP Version](https://img.shields.io/badge/PHP-8.3%2B-777BB4.svg)](https://www.php.net/)
-[![Performance](https://img.shields.io/badge/PageSpeed-100%2F100-success.svg)](#)
+Web engineer focusing on high-speed web architecture, server optimization, and custom PHP applications.
 
-> **Phase1 SpeedIndex** is a lightweight, zero-dependency web performance profiling suite and diagnostic tool. Designed for high-speed site audits, payload bloat analysis, and real-time Core Web Vitals monitoring on mobile and low-latency networks.
+### 🚀 Live Projects & Tools
+- ⚡ **[Phase1 SpeedIndex](https://phase1pixels.ng/tools/speed-index/):** Real-time web performance and payload profiling tool.
+- 💻 **[Phase 1 Pixels](https://phase1pixels.ng/):** High-speed, search-optimized website and web application development.
 
----
+### 📚 Technical Articles & Benchmarks
+- 📊 [PHP 8.3 OPcache JIT vs. NGINX FastCGI Cache Benchmarks](https://phase1pixels.ng/blog/php-opcache-jit-vs-nginx-fastcgi-cache.php)
+- 🔒 [Zero-Dependency Web Security in Native PHP](https://phase1pixels.ng/blog/zero-dependency-web-security-php.php)
 
-## 🚀 Live Demo & Online Diagnostics
-
-Run live performance, payload, and mobile latency audits directly on our web engine:
-
-👉 **[Run a Live Audit on Phase1 SpeedIndex](https://phase1pixels.ng/tools/speed-index/)**
-
----
-
-## ✨ Features
-
-- **Core Web Vitals Audit:** Real-time measurement of LCP (Largest Contentful Paint), FID, and CLS metrics.
-- **Payload & Asset Bloat Profiling:** Identifies uncompressed JavaScript, heavy images, and render-blocking CSS.
-- **Zero-Dependency Architecture:** Native PHP backend integration built without heavy third-party vendor bloat.
-- **Mobile Network Latency Testing:** Benchmarked specifically for 3G/4G connections and real-world edge speeds.
-
----
-
-## 🛠️ Quick Installation & Setup
-
-Clone the repository to your local server environment:
-
-```bash
-git clone [https://github.com/colemarkson/phase1-speedindex.git](https://github.com/colemarkson/phase1-speedindex.git)
-cd phase1-speedindex
+### 🌐 Connect & Collaborate
+- **Website:** [phase1pixels.ng](https://phase1pixels.ng/)
+- **WhatsApp:** [Consultation & Inquiries](https://wa.me/2349159508544)
+- 
