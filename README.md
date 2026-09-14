@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @colemarkson
-- 👀 I’m interested in SEO, WordPress, and Link building...
-- 🌱 I’m currently learning how to write codes ...
-- 💞️ I’m looking to collaborate on, backlinks, SEO, and  WordPress frontend projects  ...
-- 📫 How to reach me ...mail me at markatoasis3@gmail.com, or visit contact page on <a href="https://cfa24.com">Cfa24</a>
+# Phase1 SpeedIndex ⚡
 
-<!---
-colemarkson/colemarkson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
+[![PHP Version](https://img.shields.io/badge/PHP-8.3%2B-777BB4.svg)](https://www.php.net/)
+[![Performance](https://img.shields.io/badge/PageSpeed-100%2F100-success.svg)](#)
+
+> **Phase1 SpeedIndex** is a lightweight, zero-dependency web performance profiling suite and diagnostic tool. Designed for high-speed site audits, payload bloat analysis, and real-time Core Web Vitals monitoring on mobile and low-latency networks.
+
+---
+
+## 🚀 Live Demo & Online Diagnostics
+
+Run live performance, payload, and mobile latency audits directly on our web engine:
+
+👉 **[Run a Live Audit on Phase1 SpeedIndex](https://phase1pixels.ng/tools/speed-index/)**
+
+---
+
+## ✨ Features
+
+- **Core Web Vitals Audit:** Real-time measurement of LCP (Largest Contentful Paint), FID, and CLS metrics.
+- **Payload & Asset Bloat Profiling:** Identifies uncompressed JavaScript, heavy images, and render-blocking CSS.
+- **Zero-Dependency Architecture:** Native PHP backend integration built without heavy third-party vendor bloat.
+- **Mobile Network Latency Testing:** Benchmarked specifically for 3G/4G connections and real-world edge speeds.
+
+---
+
+## 🛠️ Quick Installation & Setup
+
+Clone the repository to your local server environment:
+
+```bash
+git clone [https://github.com/colemarkson/phase1-speedindex.git](https://github.com/colemarkson/phase1-speedindex.git)
+cd phase1-speedindex
