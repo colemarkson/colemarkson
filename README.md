@@ -1,6 +1,3 @@
-
-
-```markdown
 # Mark (@colemarkson)
 
 Web engineer focusing on high-speed web architecture, server optimization, and custom PHP applications.
@@ -16,3 +13,4 @@ Web engineer focusing on high-speed web architecture, server optimization, and c
 ### Connect & Collaborate
 - **Website:** [phase1pixels.ng](https://phase1pixels.ng/)
 - **WhatsApp:** [Consultation & Inquiries](https://wa.me/2349159508544)
+- 
